@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1525712815 source:c:\users\alex\documents\c++\bikehire\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<random>
+	"BikeHubs.h"
+	"PickUpDropOff.h"
+
+1525717163 c:\users\alex\documents\c++\bikehire\bikehubs.h
+	<iostream>
+	<string>
+	<fstream>
+	<stack>
+	<vector>
+
+1525717013 source:c:\users\alex\documents\c++\bikehire\bikehubs.cpp
+	"BikeHubs.h"
+	"PickUpDropOff.h"
+	<iostream>
+	<string>
+	<fstream>
+	<stack>
+	<vector>
+
+1525717098 c:\users\alex\documents\c++\bikehire\pickupdropoff.h
+	<string>
+	<fstream>
+	<vector>
+
+1525716384 source:c:\users\alex\documents\c++\bikehire\pickupdropoff.cpp
+	"PickUpDropOff.h"
+	"BikeHubs.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+
